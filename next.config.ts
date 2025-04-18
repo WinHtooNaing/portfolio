@@ -9,6 +9,11 @@ const nextConfig: NextConfig = {
         protocol: "https",
         port: "",
       },
+      {
+        hostname: "https://avatars.githubusercontent.com/",
+        protocol: "https",
+        port: "",
+      },
     ],
   },
 };
