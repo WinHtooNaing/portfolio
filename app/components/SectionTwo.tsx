@@ -10,21 +10,21 @@ import {
 import sketch from "../../public/tech-icons/sketch.svg";
 import canva from "../../public/tech-icons/canva.svg";
 import ai from "../../public/tech-icons/ai.svg";
-import figma from "../../public/tech-icons/figma.svg";
+// import figma from "../../public/tech-icons/figma.svg";
 import chatgpt from "../../public/tech-icons/chatgpt.svg";
 import cloud from "../../public/tech-icons/creativecloud.svg";
-import framer from "../../public/tech-icons/framer.svg";
+// import framer from "../../public/tech-icons/framer.svg";
 import github from "../../public/tech-icons/github.svg";
 import slack from "../../public/tech-icons/slack.svg";
 import discord from "../../public/tech-icons/discord.svg";
 import youtube from "../../public/tech-icons/youtube.svg";
 import chrome from "../../public/tech-icons/chrome.svg";
-import pr from "../../public/tech-icons/pr.svg";
-import ps from "../../public/tech-icons/ps.svg";
+// import pr from "../../public/tech-icons/pr.svg";
+// import ps from "../../public/tech-icons/ps.svg";
 import notion from "../../public/tech-icons/notion.svg";
 import micro from "../../public/tech-icons/micro.svg";
-import twitter from "../../public/twitter.svg";
-import insta from "../../public/insta.svg";
+import telegram from "../../public/telegram.svg";
+import facebook from "../../public/facebook.svg";
 import linkedin from "../../public/linkedin.svg";
 import { Button } from "@/components/ui/button";
 
@@ -32,41 +32,41 @@ const icons = [
   sketch,
   canva,
   ai,
-  figma,
+  //   figma,
   chatgpt,
   cloud,
-  framer,
+  //   framer,
   github,
   slack,
   discord,
   youtube,
   chrome,
-  pr,
-  ps,
+  //   pr,
+  //   ps,
   notion,
   micro,
 ];
 const socialMedia = [
   {
     id: 1,
-    icon: insta,
-    name: "Instagram",
-    username: "@jan",
-    link: "http://localhost:3000/",
+    icon: facebook,
+    name: "Facebook",
+    username: "@win.h.naing",
+    link: "https://www.facebook.com/win.h.naing.77398",
   },
   {
     id: 2,
-    icon: twitter,
-    name: "X / Twitter",
-    username: "@jan",
-    link: "http://localhost:3000/",
+    icon: telegram,
+    name: "Telegram",
+    username: "@cpy_pst_ldr",
+    link: "https://t.me/cpy_pst_ldr",
   },
   {
     id: 3,
     icon: linkedin,
     name: "Linkedin",
-    username: "@jan",
-    link: "http://localhost:3000/",
+    username: "@winhtoonaing",
+    link: "https://www.linkedin.com/in/win-htoo-naing-51bb79275/",
   },
 ];
 const SectionTwo = () => {

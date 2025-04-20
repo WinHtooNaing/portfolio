@@ -4,9 +4,11 @@ const Hero = () => {
   return (
     <div className="grid grid-cols-1 lg:grid-cols-3 gap-4">
       <div className="col-span-1 lg:col-span-2 h-full bg-gray-100 min-h-[300px]  rounded-2xl p-8">
-        <h1 className="text-4xl lg:text-6xl font-medium">Hello, I'm Naing.</h1>
+        <h1 className="text-4xl lg:text-6xl font-medium">
+          Hello, I am Naing.⚽
+        </h1>
         <h1 className="text-4xl lg:text-6xl font-normal mt-3 ">
-          I'm a Web and Mobile Developer and living in Myanmar.
+          I am a Web and Mobile Developer and living in Myanmar.
         </h1>
         <a
           href="mailto:winhtoonaing2003@gmail.com"
